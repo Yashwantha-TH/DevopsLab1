@@ -1,5 +1,5 @@
 class erp{
 public static void main (String[] args){
-System.out.println("hi vvce");
+System.out.println("hi ");
 }
 }
